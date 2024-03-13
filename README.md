@@ -40,7 +40,7 @@ tengo conocimientos en desarrollo web, estoy expandiendo mis conocimientos apren
 <!--
 ![github stats](https://github-readme-stats.vercel.app/api?username=onlyArsh&show_icons=true)
 -->
-### 📫🤝🏻 Contacta conmigo
+📫🤝🏻 Contacta conmigo
 
  - Conectate conmigo en [LinkedIn](https://www.linkedin.com/in/diego-moncada99/) 👨🏻‍💻
  - Envíame un [Email](mailto:diegoamm8@gmail.com) 📩
