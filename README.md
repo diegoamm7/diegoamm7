@@ -29,7 +29,7 @@ tengo conocimientos en desarrollo web, estoy expandiendo mis conocimientos apren
 - 🛢 &nbsp; SQL | Firebase | Looker
 - 🔧 &nbsp; Instalacion y Mantenimiento > Hardware | Software
 <div>
-  <h3> 💻 Languages and Tools </h3>
+  <h3> 💻 Lenguajes </h3>
     <p>
       <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
       <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
